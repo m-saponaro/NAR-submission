@@ -1,0 +1,6 @@
+hub BEAR
+shortLabel BEAR DataShare
+longLabel data share hub provided by the University of Birmingham
+genomesFile https://beardatashare.bham.ac.uk/folderstable
+email m.saponaro@bham.ac.uk
+descriptionUrl https://beardatashare.bham.ac.uk/folderstable
